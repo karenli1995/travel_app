@@ -1,3 +1,5 @@
+package main.java;
+
 import org.json.*;
 
 public class Bounds {
